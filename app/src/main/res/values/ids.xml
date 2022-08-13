@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ib_save" type="id">ib_save</item>
+    <item name="ib_something" type="id">something</item>
+</resources>
